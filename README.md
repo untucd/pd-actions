@@ -108,6 +108,7 @@ GitHub free account comes with 2000 minutes/month of free scans, making it pract
 
 ### Additional reference
 
+- https://docs.github.com/en/github/site-policy/github-additional-product-terms#5-actions-and-packages
 - https://docs.github.com/en/actions/reference/usage-limits-billing-and-administration#usage-limits
 - https://blog.projectdiscovery.io/github-actions-for-application-security/
 - https://cdmana.com/2021/03/20210310142516432Q.html
